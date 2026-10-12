@@ -14,7 +14,9 @@
   - [示例与演示](#示例与演示)
   - [应用](#应用)
     - [系统工具](#系统工具)
-    - [Root / Xposed](#root--xposed)
+    - [VPN / 代理](#vpn--代理)
+    - [Root](#root)
+    - [Xposed](#xposed)
   - [参与贡献](#参与贡献)
   - [许可证](#许可证)
 
@@ -39,10 +41,17 @@
 - [Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) - Android payload 镜像提取工具。
 - [Updater-KMP](https://github.com/YuKongA/Updater-KMP) - 使用 KMP 构建的小米系统更新获取工具。
 
-### Root / Xposed
+### VPN / 代理
+
+- [Mishka](https://github.com/YuKongA/Mishka) - 基于 mihomo 的 Android 代理客户端，支持 VPN、ROOT TUN 和 ROOT TPROXY 模式。
+
+### Root
 
 - [KernelSU](https://github.com/tiann/KernelSU) - 基于内核的 Android Root 方案，管理器支持 Material / Miuix 双主题。
 - [GhostLock](https://github.com/YuKongA/ghostlock-app) - 在受支持内核上通过 GhostLock 获取 Root 权限的 Android 应用。
+
+### Xposed
+
 - [HyperIsland](https://github.com/1812z/HyperIsland) - 为澎湃 OS3/4 打造的超级岛通知增强的 Xposed 模块。
 - [HyperLyric](https://github.com/limczhh/HyperLyric) - 为小米 HyperOS 3 带来超级岛歌词的 Xposed 模块。
 - [HyperStar](https://github.com/YunZiA/HyperStar) - 面向小米设备的系统界面定制 Xposed 模块。

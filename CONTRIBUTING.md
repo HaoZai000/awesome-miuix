@@ -23,9 +23,11 @@ Top-level categories follow **resource type**:
 - **Examples and Demos**: resources demonstrating Miuix usage.
 - **Applications**: projects with interfaces built using Miuix, divided into:
   - **System Tools**: update, extraction, and installation utilities.
-  - **Root / Xposed**: root-based system modifications and Xposed applications or modules, including customization and lyrics modules.
+  - **VPN / Proxy**: VPN and network proxy clients.
+  - **Root**: solutions and tools for obtaining or managing root access.
+  - **Xposed**: Xposed applications or modules, including system customization and lyrics modules.
 
-Use one category per entry. Optional root support alone does not place a tool in Root / Xposed. Do not classify complete applications by individual UI components.
+Use one category per entry, based on its primary purpose. Requiring root access or offering optional root support alone does not place a tool in Root. Xposed applications and modules belong in Xposed even when they require root access. Do not classify complete applications by individual UI components.
 
 Propose a new category when needed. Add sections for extensions, themes, templates, or tutorials only when suitable entries are available. Do not create empty sections.
 
@@ -62,9 +64,11 @@ Propose a new category when needed. Add sections for extensions, themes, templat
 - **示例与演示**：展示 Miuix 用法的资源。
 - **应用**：使用 Miuix 构建界面的项目，下分：
   - **系统工具**：更新、提取、安装类工具。
-  - **Root / Xposed**：基于 Root 的系统修改及 Xposed 应用或模块，包括系统定制和歌词模块。
+  - **VPN / 代理**：VPN 及网络代理客户端。
+  - **Root**：用于获取或管理 Root 权限的方案及工具。
+  - **Xposed**：Xposed 应用或模块，包括系统定制和歌词模块。
 
-每个条目仅归入一个分类。工具仅支持可选 Root 功能时，不必归入 Root / Xposed。完整应用不按单个 UI 组件分类。
+每个条目按核心用途仅归入一个分类。仅依赖 Root 权限或支持可选 Root 功能的工具，不因此归入 Root。Xposed 应用或模块即使依赖 Root 权限，也归入 Xposed。完整应用不按单个 UI 组件分类。
 
 现有分类不适用时，可提出新分类。扩展、主题、模板或教程等分类须有实际条目，不预建空章节。
 

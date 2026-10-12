@@ -14,7 +14,9 @@ Discover Miuix, try its components, and explore how other projects use it. This 
   - [Examples and Demos](#examples-and-demos)
   - [Applications](#applications)
     - [System Tools](#system-tools)
-    - [Root / Xposed](#root--xposed)
+    - [VPN / Proxy](#vpn--proxy)
+    - [Root](#root)
+    - [Xposed](#xposed)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -39,10 +41,17 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 - [Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) - Android payload image extraction tool.
 - [Updater-KMP](https://github.com/YuKongA/Updater-KMP) - KMP tool for retrieving Xiaomi system updates.
 
-### Root / Xposed
+### VPN / Proxy
+
+- [Mishka](https://github.com/YuKongA/Mishka) - Android proxy client based on mihomo, with VPN, ROOT TUN, and ROOT TPROXY modes.
+
+### Root
 
 - [KernelSU](https://github.com/tiann/KernelSU) - Kernel-based Android root solution with a manager supporting Material / Miuix themes.
 - [GhostLock](https://github.com/YuKongA/ghostlock-app) - Android application for obtaining root access through GhostLock on supported kernels.
+
+### Xposed
+
 - [HyperIsland](https://github.com/1812z/HyperIsland) - Xposed module enhancing Super Island notifications on HyperOS 3 and 4.
 - [HyperLyric](https://github.com/limczhh/HyperLyric) - Xposed module bringing Super Island lyrics to Xiaomi HyperOS 3.
 - [HyperStar](https://github.com/YunZiA/HyperStar) - Xposed module for customizing the system interface on Xiaomi devices.
