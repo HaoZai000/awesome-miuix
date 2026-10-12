@@ -21,7 +21,7 @@ Discover Miuix, try its components, and explore how other projects use it. This 
 ## Official Resources
 
 - [Miuix](https://github.com/compose-miuix-ui/miuix) - Source code, setup instructions, and supported platforms.
-- [Documentation](https://compose-miuix-ui.github.io/miuix/) - Guides and component references.
+- [Official Documentation](https://compose-miuix-ui.github.io/miuix/) - Guides and component references.
 
 ## Examples and Demos
 
@@ -35,19 +35,19 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 
 ### System Tools
 
-- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - Android package installer with selectable Material and Miuix themes.
+- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - Android package installer with Material / Miuix theme options.
 - [Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) - Android payload image extraction tool.
-- [Updater-KMP](https://github.com/YuKongA/Updater-KMP) - Kotlin Multiplatform tool for retrieving Xiaomi system updates.
+- [Updater-KMP](https://github.com/YuKongA/Updater-KMP) - KMP tool for retrieving Xiaomi system updates.
 
 ### Root / Xposed
 
-- [KernelSU](https://github.com/tiann/KernelSU) - Kernel-based Android root solution with a manager offering Material and Miuix themes.
+- [KernelSU](https://github.com/tiann/KernelSU) - Kernel-based Android root solution with a manager supporting Material / Miuix themes.
 - [GhostLock](https://github.com/YuKongA/ghostlock-app) - Android application for obtaining root access through GhostLock on supported kernels.
-- [HyperIsland](https://github.com/1812z/HyperIsland) - Xposed module extending Xiaomi HyperOS Super Island.
-- [HyperLyric](https://github.com/limczhh/HyperLyric) - Xposed module displaying lyrics in Super Island on Xiaomi HyperOS 3.
+- [HyperIsland](https://github.com/1812z/HyperIsland) - Xposed module enhancing Super Island notifications on HyperOS 3 and 4.
+- [HyperLyric](https://github.com/limczhh/HyperLyric) - Xposed module bringing Super Island lyrics to Xiaomi HyperOS 3.
 - [HyperStar](https://github.com/YunZiA/HyperStar) - Xposed module for customizing the system interface on Xiaomi devices.
-- [Lyricon](https://github.com/tomakino/lyricon) - Xposed module extending Android status bar lyrics.
-- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - Xposed application displaying the currently playing song's lyrics in the status bar.
+- [Lyricon (词幕)](https://github.com/tomakino/lyricon) - Xposed-based tool for enhancing Android status bar lyrics.
+- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - Xposed application for displaying lyrics in the status bar.
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - Xposed module providing system optimizations and additional features for Xiaomi devices.
 
 ## Contributing

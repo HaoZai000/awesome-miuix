@@ -11,7 +11,7 @@
 - Applications, examples, and reusable code must be open source under a license that permits reuse. Articles and demos must be accessible without login or payment.
 - Links must work, and descriptions must reflect the project's current state. Disclose archived status and important limitations.
 - Community source repositories must have **at least 50 GitHub Stars** at review time. This threshold does not replace quality review.
-- Code and documentation must have no obvious AI-generation artifacts, such as leftover prompts, irrelevant boilerplate, or fabricated APIs. AI-assisted work must be reviewed, tested, and maintained.
+- Code and documentation must have no obvious AI-generation artifacts, such as leftover prompts, irrelevant boilerplate, or fabricated APIs. AI-assisted work requires human review, testing, and maintenance.
 - Applications and examples must handle padding and safe areas correctly. There must be no obvious overlap, clipping, duplicate padding, or excessive blank space.
 - Unrelated Compose resources, duplicate entries, and promotional descriptions are not accepted.
 
